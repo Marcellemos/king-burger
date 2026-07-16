@@ -30,7 +30,7 @@
   padding: var(--ked-banner-section-y) var(--ked-banner-section-x);
   color: var(--ked-banner-text);
   background-color: var(--ked-banner-bg);
-  background-image: url('../public/images/background-2-burguers.png');
+  background-image: url('../images/background-2-burguers.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
